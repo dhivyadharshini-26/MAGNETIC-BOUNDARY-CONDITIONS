@@ -1,10 +1,9 @@
 # MAGNETIC-BOUNDARY-CONDITIONS
 
 ## Introduction
+Magnetic boundary conditions describe how magnetic fields behave at the interface of two different materials. The key conditions are that the normal component of magnetic flux density is continuous across the boundary, while the tangential component of magnetic field intensity is discontinuous if there is a surface current present. If no surface current exists, the tangential component of magnetic field intensity is also continuous.
 
-<img width="529" height="485" alt="boundary-conditions" src="https://github.com/user-attachments/assets/7cba5806-61fd-48b2-95a4-41b7dc838545" />
-
-Magnetic boundary conditions describe how magnetic fields behave at the interface of two different materials. The key conditions are that the normal component of magnetic flux density is continuous across the boundary, while the tangential component of magnetic field intensity is discontinuous if there is a surface current present. If no surface current exists, the tangential component of magnetic field intensity is also continuous. 
+;<img width="529" height="485" alt="boundary-conditions" src="https://github.com/user-attachments/assets/7cba5806-61fd-48b2-95a4-41b7dc838545" />
 
 ## 1. Tangential Magnetic Field Boundary Condition
 ### Condition
@@ -30,6 +29,7 @@ Strong AC surface currents produce tangential magnetic fields that heat the pan.
 ## ii) PCB Microstrip Lines:
 
 High-frequency signals cause surface currents that influence tangential H and signal integrity.
+
 
 ![PCB microstrip lines](https://github.com/user-attachments/assets/38785fe9-08c0-4a8c-b485-6c5361e890be)
 
@@ -75,7 +75,7 @@ Prevent magnetic noise from entering.
 
 ![Copper shielding in audio cables](https://github.com/user-attachments/assets/f794c347-a85f-4f05-9ca8-33352d87bb13)
 
-### ii) High-Frequency AC Wires:
+### ii) Skin effect in AC power lines
 
 Magnetic fields stay only near the surface (skin effect).
 
