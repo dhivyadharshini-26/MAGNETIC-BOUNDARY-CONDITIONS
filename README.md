@@ -72,7 +72,7 @@ Real conductors behave similarly at high frequencies due to skin effect.
 
 Prevent magnetic noise from entering.
 
-![Copper shielding in audio cables](https://github.com/user-attachments/assets/f794c347-a85f-4f05-9ca8-33352d87bb13)
+<img width="550" height="540" src="https://github.com/user-attachments/assets/f794c347-a85f-4f05-9ca8-33352d87bb13">
 
 ### ii) Skin effect in AC power lines
 
