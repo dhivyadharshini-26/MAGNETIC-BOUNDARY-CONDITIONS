@@ -30,8 +30,7 @@ Strong AC surface currents produce tangential magnetic fields that heat the pan.
 
 High-frequency signals cause surface currents that influence tangential H and signal integrity.
 
-
-![PCB microstrip lines](https://github.com/user-attachments/assets/38785fe9-08c0-4a8c-b485-6c5361e890be)
+<img width="550" height="540" src="https://github.com/user-attachments/assets/38785fe9-08c0-4a8c-b485-6c5361e890be">
 
 ## 2. Normal Magnetic Flux Boundary Condition
 ### Condition
@@ -48,13 +47,13 @@ Normal magnetic flux density is continuous because magnetic monopoles do not exi
 
 Flux moves smoothly from air into the steel core; normal B remains continuous.
 
-![Magnetic fields passing from air into a transformer core](https://github.com/user-attachments/assets/df013d03-f054-417e-b9b3-a2a8e76273ac)
+<img width="550" height="540" src="https://github.com/user-attachments/assets/df013d03-f054-417e-b9b3-a2a8e76273ac">
 
 ### ii) Magnetic field around a loudspeaker magnet 
 
 Magnetic field enters metal parts without breaking, focusing flux onto the coil.
 
-![Magnetic field around a loudspeaker magnet](https://github.com/user-attachments/assets/5081b4ab-6814-4678-a83a-ef1399f008ed)
+<img width="550" height="540" src="https://github.com/user-attachments/assets/5081b4ab-6814-4678-a83a-ef1399f008ed">
 
 ## 3. Magnetic Boundary Conditions for a Perfect Conductor
 ### Conditions
